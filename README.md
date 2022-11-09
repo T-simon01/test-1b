@@ -8,9 +8,9 @@
   </head>
   <body> 
     <h1>Education at Sault College: Intro To Computer Programming</h1>
-    <img align="centre/top" src="saultcollegelogo.jpeg" alt="Sault College logo">
-    <img align="left/top" src="schoolfront.jpg" alt="photo of the front of sault college">
-    <img align="right/top" src="gymsault.jpg" alt="photo of school gym"
+    <img align="centre/top" src="https://d3n8a8pro7vhmx.cloudfront.net/aeceo/pages/803/attachments/original/1442256054/Sault_College_Logo_horiz_rgb.jpeg?1442256054" alt="Sault College logo">
+    <img align="left/top" src="https://tcglivenew.s3.amazonaws.com/images/school/110bc989-74a4-4d16-9d9e-c6a4e5f04159.jpg" alt="photo of the front of sault college">
+    <img align="right/top" src="https://th.bing.com/th/id/OIP.VrzM4itSkHFsDDsbu33PPAAAAA?pid=ImgDet&rs=1" alt="photo of school gym"
          <p> Welcome! Sault College is a great choice if your looking for a fantastic experience, we have all the necessities for you to succeed. In computer programming you will learn hardware and software environments that are relevent in the industry. You will learn pyhton, java, and java script.</p>
    <a href="https://www.saultcollege.ca/programs/information-technology-studies/computer-programming">classes</a>
   <a href="https://welearn.saultcollege.ca/shared/CourseOutlines/CSD111_Course_Outline.pdf"<course outline</a>
