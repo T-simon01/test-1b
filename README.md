@@ -15,6 +15,6 @@ Sault College
    <a href="https://www.saultcollege.ca/programs/information-technology-studies/computer-programming">classes</a>
   <a href="https://welearn.saultcollege.ca/shared/CourseOutlines/CSD111_Course_Outline.pdf">course outline</a>
 <a href="https://my.saultcollege.ca/uPortal/f/campus/p/SC_campus.u17l1n22/max/render.uP">Campus Life</a>
-<a href="https://www.ontariocolleges.ca/en/cba?collegeCode=SAUL&programCode=2095&_ga=2.103405378.371388813.1667958262-1735371602.1667958262">Apply now!>
+<a href="https://www.ontariocolleges.ca/en/cba?collegeCode=SAUL&programCode=2095&_ga=2.103405378.371388813.1667958262-1735371602.1667958262">Apply now!</a>
 </body>
     
